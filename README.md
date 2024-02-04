@@ -1,6 +1,6 @@
 # Detection of Cyber-attacks on Network Infrastructure using Machine Learning Models
 *Author:* Delan Jayasuriya<br>
-*Published:* 4th February 2024
+*Published:* 2nd February 2024
 
 This is a capstone project for CodingNomads’ “Data Science and Machine Learning” course.
 
