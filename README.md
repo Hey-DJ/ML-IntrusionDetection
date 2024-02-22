@@ -5,13 +5,14 @@
 This is a capstone project for CodingNomads’ “Data Science and Machine Learning” course.
 
 Its objective is to design and train a supervised ML (machine learning) model that can be used within an IDS (Intrusion Detection Systems) to carry out anomaly-based detection to several classes of network attack vectors inlcuding:
--Brute-force attacks
--Heartbleed attacks
--Botnet
--Denial-of-Service (DoS)
--Distributed Denial-of-Service (DDoS)
--Web Attacks (eg cross-site scripting)
--Infiltration:
+- Brute-force attacks
+- Heartbleed attacks
+- Botnet
+- Denial-of-Service (DoS)
+- Distributed Denial-of-Service (DDoS)
+- Web Attacks (eg cross-site scripting)
+- Infiltration
+- Sql Injection
 
 ## Contents
 Project paper: [Research Paper - Network Intrusion Detection.pdf](/Research%20Paper%20-%20Network%20Intrusion%20Detection.pdf)
